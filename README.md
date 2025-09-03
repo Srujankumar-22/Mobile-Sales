@@ -20,7 +20,7 @@ A simple page navigation allows switching between the following:
   It includes interactive filters and diverse visuals such as maps, line charts, bar charts, and pie charts to analyze sales by city, brand, model, payment method, and customer ratings.
 
 - **📈 MTD Report** (Page 2 – Month-To-Date)  
-  ![MTD Report Screenshot](MTD_Report.PNG)  
+  ![MTD Report Screenshot](MTD%20Report.PNG)  
   **Month-to-Date (MTD) Report** in Power BI shows performance metrics from the start of the current month up to today, helping track progress within the ongoing month.  
   This report highlights total sales, quantity, transactions, and average price with a line chart that displays cumulative growth day by day.
 
